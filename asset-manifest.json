@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/food-booking-app/static/css/main.c7bcc116.css",
-    "main.js": "/food-booking-app/static/js/main.c8aace15.js",
+    "main.js": "/food-booking-app/static/js/main.22e797e7.js",
     "static/media/pizzahut.webp": "/food-booking-app/static/media/pizzahut.03895f1887218298fef2.webp",
     "index.html": "/food-booking-app/index.html",
     "main.c7bcc116.css.map": "/food-booking-app/static/css/main.c7bcc116.css.map",
-    "main.c8aace15.js.map": "/food-booking-app/static/js/main.c8aace15.js.map"
+    "main.22e797e7.js.map": "/food-booking-app/static/js/main.22e797e7.js.map"
   },
   "entrypoints": [
     "static/css/main.c7bcc116.css",
-    "static/js/main.c8aace15.js"
+    "static/js/main.22e797e7.js"
   ]
 }
