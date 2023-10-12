@@ -15,7 +15,7 @@ export default function HeaderCartButton(props) {
         <span className={classes.icon}>
           <CartIcon />
         </span>
-        <span>Your Cart</span>
+        <span className={classes["button-title"]}>Your Cart</span>
         <span className={classes.badge}>{numberOfCartItems}</span>
       </button>
     </>
